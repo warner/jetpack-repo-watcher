@@ -1,9 +1,9 @@
 {
-    "name": "jetpack-trunk", 
+    "name": "jetpack-repo-watcher", 
     "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
     "author": "", 
     "version": "0.1", 
-    "fullName": "jetpack-trunk", 
+    "fullName": "jetpack-repo-watcher", 
     "id": "jid1-3NQXWA5DrkivKg", 
-    "description": "a basic add-on"
+    "description": "Watch the Jetpack github repository for changes"
 }
