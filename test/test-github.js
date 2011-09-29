@@ -9,6 +9,6 @@ exports.test_github = function(test) {
         test.pass();
         test.done();
     }
-    github.getReferenceData("mozilla", "addon-sdk", "master", gotResponse);
+    github.getBranchData("mozilla", "addon-sdk", "master", gotResponse);
     test.waitUntilDone(20000);
 }
